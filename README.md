@@ -13,4 +13,3 @@ Things needed to be taken care of while building an application:
 2. Features of displaying which party you have voted will replace VVPAT slips which shows on screen for some seconds and disappears.
 3. Extra features of GPS can be used to track if the machine has not gone in wrong hands with GPS tracking will enhance security.
 4. A good easily understandable UI should be made just similar to voting machine so that everyone can understand and vote.
-5. 
